@@ -1,6 +1,6 @@
 import React from 'react'
 import { useParams } from 'react-router-dom';
-import { HookUseContext, HookUseEffect, HookUseState } from './hooks';
+import { HookUseContext, HookUseEffect, HookUseReducer, HookUseState } from './hooks';
 
 const Page = () => {
     const { slug } = useParams();
@@ -11,7 +11,7 @@ const Page = () => {
             {slug === "useState" ? <HookUseState /> : null}
             {slug === "useEffect" ? <HookUseEffect /> : null}
             {slug === "useContext" ? <HookUseContext /> : null}
-            {slug === "useReducer" ? <HookUseState /> : null}
+            {slug === "useReducer" ? <HookUseReducer /> : null}
             {slug === "useCallback" ? <HookUseState /> : null}
             {slug === "useMemo" ? <HookUseState /> : null}
             {slug === "useRef" ? <HookUseState /> : null}
