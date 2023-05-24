@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Item 1",
+        "slug": "item-1",
+        "sku": "item-1",
+        "price": 10,
+        "currency": "INR",
+        "image": "https://previews.123rf.com/images/aquir/aquir1311/aquir131100316/23569861-sample-grunge-red-round-stamp.jpg"
+    },
+    {
+        "name": "Item 2",
+        "slug": "item-2",
+        "sku": "item-2",
+        "price": 10,
+        "currency": "AUD",
+        "image": "https://previews.123rf.com/images/aquir/aquir1311/aquir131100316/23569861-sample-grunge-red-round-stamp.jpg"
+    },
+    {
+        "name": "Item 3",
+        "slug": "item-3",
+        "sku": "item-3",
+        "price": 10,
+        "currency": "USD",
+        "image": "https://previews.123rf.com/images/aquir/aquir1311/aquir131100316/23569861-sample-grunge-red-round-stamp.jpg"
+    },
+    {
+        "name": "Item 4",
+        "slug": "item-4",
+        "sku": "item-4",
+        "price": 10,
+        "currency": "INR",
+        "image": "https://previews.123rf.com/images/aquir/aquir1311/aquir131100316/23569861-sample-grunge-red-round-stamp.jpg"
+    },
+    {
+        "name": "Item 5",
+        "slug": "item-5",
+        "sku": "item-5",
+        "price": 15,
+        "currency": "INR",
+        "image": "https://previews.123rf.com/images/aquir/aquir1311/aquir131100316/23569861-sample-grunge-red-round-stamp.jpg"
+    },
+    {
+        "name": "Item 6",
+        "slug": "item-6",
+        "sku": "item-6",
+        "price": 16,
+        "currency": "INR",
+        "image": "https://previews.123rf.com/images/aquir/aquir1311/aquir131100316/23569861-sample-grunge-red-round-stamp.jpg"
+    },
+    {
+        "name": "Item 7",
+        "slug": "item-7",
+        "sku": "item-7",
+        "price": 10,
+        "currency": "INR",
+        "image": "https://previews.123rf.com/images/aquir/aquir1311/aquir131100316/23569861-sample-grunge-red-round-stamp.jpg"
+    },
+    {
+        "name": "Item 8",
+        "slug": "item-8",
+        "sku": "item-8",
+        "price": 10,
+        "currency": "INR",
+        "image": "https://previews.123rf.com/images/aquir/aquir1311/aquir131100316/23569861-sample-grunge-red-round-stamp.jpg"
+    },
+    {
+        "name": "Item 9",
+        "slug": "item-9",
+        "sku": "item-9",
+        "price": 10,
+        "currency": "INR",
+        "image": "https://previews.123rf.com/images/aquir/aquir1311/aquir131100316/23569861-sample-grunge-red-round-stamp.jpg"
+    },
+    {
+        "name": "Item 10",
+        "slug": "item-10",
+        "sku": "item-10",
+        "price": 10,
+        "currency": "INR",
+        "image": "https://previews.123rf.com/images/aquir/aquir1311/aquir131100316/23569861-sample-grunge-red-round-stamp.jpg"
+    },
+    {
+        "name": "Item 11",
+        "slug": "item-11",
+        "sku": "item-11",
+        "price": 120,
+        "currency": "INR",
+        "image": "https://previews.123rf.com/images/aquir/aquir1311/aquir131100316/23569861-sample-grunge-red-round-stamp.jpg"
+    },
+    {
+        "name": "Item 12",
+        "slug": "item-12",
+        "sku": "item-12",
+        "price": 10,
+        "currency": "INR",
+        "image": "https://previews.123rf.com/images/aquir/aquir1311/aquir131100316/23569861-sample-grunge-red-round-stamp.jpg"
+    }
+]

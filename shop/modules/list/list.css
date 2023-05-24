@@ -1,0 +1,12 @@
+ul.list li {
+    float: left;
+    list-style: none;
+    padding: 5px;
+    margin: 4px;
+    text-align: center;
+    background: #eae2e2;
+}
+.list img {
+    width: 125px;
+    height: 130px;
+}
